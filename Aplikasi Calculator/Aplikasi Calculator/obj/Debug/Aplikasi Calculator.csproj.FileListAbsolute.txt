@@ -1,0 +1,11 @@
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\bin\Debug\Aplikasi Calculator.exe.config
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\bin\Debug\Aplikasi Calculator.exe
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\bin\Debug\Aplikasi Calculator.pdb
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi Calculator.csprojAssemblyReference.cache
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi_Calculator.Properties.Resources.resources
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi Calculator.csproj.GenerateResource.cache
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi Calculator.csproj.CoreCompileInputs.cache
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi Calculator.exe
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi Calculator.pdb
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi_Calculator.frmProses.resources
+E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P8\Aplikasi Calculator\Aplikasi Calculator\Aplikasi Calculator\obj\Debug\Aplikasi_Calculator.frmHasil.resources
